@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./logo.png" alt="VAV Logo" align="center"/>
+    <img src="./logo.png" alt="VAV Logo" align="center" width="200" heigth="200"/>
 </p>
 <h1 align="center">Moon Shooter 🌙</h1>
 
