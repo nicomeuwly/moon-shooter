@@ -156,14 +156,14 @@
             <a href="https://freesound.org/people/JakeAMT/sounds/681970/" target="_blank">FX_Red_Laser_Shot_1.wav (Sound)</a>
           </dt><dd>
             by <a href="https://freesound.org/people/JakeAMT/" target="_blank">JakeAMT</a>
-            under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0 Deed</a>
+            under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
           </dd>
 
           <dt>
             <a href="https://freesound.org/people/kevinkace/sounds/66779/" target="_blank">Crate Break 3.wav (Sound)</a>
           </dt><dd>
             by <a href="https://freesound.org/people/kevinkace/" target="_blank">kevinkace</a>
-            under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0 Deed</a>
+            under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
           </dd>
 
           <dt>
@@ -184,7 +184,7 @@
             <a href="https://freesound.org/people/Sayn698/sounds/726320/" target="_blank">Sci-Fi mysterious intro music (Sound)</a>
           </dt><dd>
             by <a href="https://freesound.org/people/Sayn698/" target="_blank">Sayn698</a>
-            under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0 Deed</a>
+            under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
           </dd>
 
           <dt>

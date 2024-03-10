@@ -29,7 +29,7 @@ You're sent to the moon to hone your shooting skills in preparation for the upco
 - [aframe-blink-controls](https://github.com/jure/aframe-blink-controls) (MIT License)
 - [simple-navmesh-constraint](https://github.com/AdaRoseCannon/aframe-xr-boilerplate) (MIT Licence)
 - [a-frame-vite-vue-boilerplate](https://github.com/Chabloz/a-frame-vite-vue-boilerplate) (MIT Licence)
-- [aframe-super-shooter-kit](https://github.com/supermedium/aframe-super-shooter-kit)
+- [aframe-super-shooter-kit](https://github.com/supermedium/aframe-super-shooter-kit) (MIT Licence)
 
 ### Movement modes support
 
@@ -48,6 +48,18 @@ You're sent to the moon to hone your shooting skills in preparation for the upco
 - **Laser pistol** – [Stylized Gun](https://sketchfab.com/3d-models/stylized-gun-2983dac401d741349ff35ff91a1786f0) by [Vasko Petrov](https://sketchfab.com/vaskopetrov) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - **Crate / Target** – [Sci-fi Crate](https://sketchfab.com/3d-models/sci-fi-crate-0e60a62a8f1e4048b638a32eb0661015) by [Darren McNerney 3D](https://sketchfab.com/DarrenMcnerney3D) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - **Table** – [Sci-Fi Table](https://sketchfab.com/3d-models/sci-fi-table-05de9f03e78449ad8691715f02b74839) by [nenkea](https://sketchfab.com/nenkea) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+### Sound effects
+
+- **Gunshot** – [FX_Red_Laser_Shot_1.wav](https://freesound.org/people/JakeAMT/sounds/681970/) by [JakeAMT](https://freesound.org/people/JakeAMT/) is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+- **Target hit** – [Crate Break 3.wav](https://freesound.org/people/kevinkace/sounds/66779/) by [kevinkace](https://freesound.org/people/kevinkace/) is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+- **Displays turning on** – [up5.wav](https://freesound.org/people/bumpelsnake/sounds/456576/) by [bumpelsnake](https://freesound.org/people/bumpelsnake/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- **Game over** – [oldtada.wav](https://freesound.org/people/Logatron/sounds/666280/) by [Logatron](https://freesound.org/people/Logatron/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- **Ambient music** – [Sci-Fi mysterious intro music](https://freesound.org/people/Sayn698/sounds/726320/) by [Sayn698](https://freesound.org/people/Sayn698/) is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+
+### Image
+
+- **Space sky** – [360 degree equirectangular projection space background](https://stock.adobe.com/ch_fr/search?k=equirectangular+space&asset_id=648321248) by [Jodie](https://stock.adobe.com/ch_fr/contributor/211490113/jodie?load_type=author&prev_url=detail) is licensed under [Educational licence](https://stock.adobe.com/ch_fr/enterprise-conditions)
 
 ---
 
