@@ -11,7 +11,7 @@ import "../aframe/clickable.js";
 
 const exit = () => {
   window.location.reload();
-}
+};
 </script>
 
 <template>
@@ -169,13 +169,33 @@ const exit = () => {
     rotation="0 -34.10900000000001 0"
     visible="false"
     sound="src: #display; on: display; poolSize: 1"
-    ><a-text
+  >
+    <a-text
       scale="0.7 0.7 0.7"
-      position="-0.63334 0.02041 0.00572"
+      position="-0.63334 0.0527 0.00572"
       value="Score :"
+      text=""
     ></a-text>
-    &gt;<a-text id="score" position="0.33899 0.012 0.00779" value="0"></a-text
-  ></a-entity>
+    <a-text
+      id="score"
+      position="0.30432 0.05196 0.00655"
+      value="0"
+      text=""
+    ></a-text>
+    <a-text
+      scale="0.4 0.4 0.4"
+      position="-0.63334 -0.11888 0.00572"
+      value="Best score :"
+      color="#dedede"
+    ></a-text>
+    <a-text
+      id="best-score"
+      position="0.33899 -0.12397 0.00779"
+      value="0"
+      color="#dedede"
+      scale="0.6 0.6 0.6"
+    ></a-text>
+  </a-entity>
 
   <a-entity
     id="restart"

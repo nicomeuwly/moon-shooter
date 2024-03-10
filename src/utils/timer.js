@@ -12,12 +12,17 @@ const startTimer = () => {
       timerValue.setAttribute("position", "-0.05895 0.01177 0.01111");
     }
     if (timer === 0) {
+      const score = document.getElementById("score");
+      const bestScore = document.getElementById("best-score");
       endgame.emit("endgame");
       console.log("Game Over");
       targetZone.setAttribute("visible", false);
       restart.setAttribute("visible", true);
       endgame.setAttribute("visible", true);
       timer = maxTime;
+      if (+score.getAttribute("value") > +bestScore.getAttribute("value")) {
+        bestScore.setAttribute("value", score.getAttribute("value"));
+      }
       clearInterval(interval);
       return;
     }
